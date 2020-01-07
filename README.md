@@ -1,4 +1,4 @@
-# winning
+# Moved to <https://github.com/justinforce/winning>
 
 Customizations and fixes to make living with Windows more comfortable.
 
